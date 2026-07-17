@@ -1,4 +1,4 @@
-# Terrain Constraint Classification Toolbox Suite
+# Terrain Classification Toolbox Suite
 
 Four ArcGIS Pro Python toolboxes that process public federal terrain and
 infrastructure data into a per-zone development suitability
